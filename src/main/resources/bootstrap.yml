@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: app-service-register
+
+  cloud:
+    config:
+      uri: http://localhost:9090
